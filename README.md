@@ -33,7 +33,7 @@
 `Git` `Jenkins (Basic)` `Render (Basic)`
 
 #### 🤖 NLP & GenAI
-`Sentiment Analysis` `LLM Tools`
+`Sentiment Analysis` `LLM Tools` `RAG Pipeline` `Agentic RAG`
 
 ---
 
