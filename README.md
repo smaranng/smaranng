@@ -1,60 +1,61 @@
-can you help me to enhance my github readme file so that it looks really professional like a good developer? <h1 align="center">Hi there 👋, I'm Smaran Nanjundiah G</h1>
+<h1 align="center">Hi 👋, I'm Smaran Nanjundiah G</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;GenAI+%7C+NLP+%7C+RAG+Systems;Building+Intelligent+Applications" />
+</p>
+
 <h3 align="center">🚀 Tech Explorer | 👨‍💻 Developer | 🧠 NLP + AI Enthusiast</h3>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🔭 Currently diving deep into **GenAI**, **NLP**, and **Intelligent Systems**
-- 💻 Passionate about building **full-stack applications**, solving problems with code, and applying **LLMs in real use cases**
-- 🌱 Actively learning: `React`, `Docker`, and `CI/CD tools`
-- 🛠️ Always looking to collaborate on meaningful tech-driven projects
+- 🔭 Currently diving deep into **Generative AI, NLP & Intelligent Systems**
+- 💻 Passionate about building **full-stack applications** and real-world AI solutions
+- 📊 Strong foundation in **Data Structures & Algorithms**
+- 🐳 Learning **Docker, CI/CD & scalable system deployment**
+- 🤝 Open to collaborating on impactful tech-driven projects
 
 ---
 
-### 🚀 Skills Snapshot
+## 🚀 Skills Snapshot
 
-#### 👨‍💻 Programming Languages
-`Java` `Python` `C` `PHP`
+### 👨‍💻 Programming Languages
+`Java` • `Python` • `C` • `PHP` • `JavaScript`
 
-#### 🧰 Frameworks & Libraries
-`Java Swing` `Streamlit` `Flask` `
+### 🧰 Frameworks & Libraries
+`Java Swing` • `Streamlit` • `Flask`
 
-#### 🌐 Web Development
-`HTML` `CSS` `JavaScript`
+### 🌐 Web Development
+`HTML` • `CSS` • `JavaScript` • `MERN Stack`
 
-#### 🗄️ Databases
-`MySQL`
+### 🗄️ Databases
+`MySQL` • `MongoDB`
 
-#### 📚 Core Competencies
-`Data Structures` `Algorithms`
+### 🤖 AI / ML / GenAI
+Machine Learning • NLP (Sentiment Analysis, Text Classification) • RAG • Agentic RAG • GANs • LangGraph • TinyLLaMA • Scikit-learn • Pandas • NumPy • Matplotlib • Exploratory Data Analysis
 
-#### ⚙️ DevOps & Tools
-`Git` `Jenkins (Basic)` `Render (Basic)`
+### ⚙️ DevOps & Tools
+`Git` • `Jenkins (Basic)` • `Render (Basic)` • `Docker (Learning)`
 
-#### 🤖 NLP & GenAI
-`Sentiment Analysis` `LLM Tools` `RAG Pipeline` `Agentic RAG`   AI/ ML/ Data Science & Generative AI : Machine Learning, NLP (Sentiment Analysis, Text Classification), LLM
-Frameworks (LangGraph, TinyLLaMa), RAG, GANs, Scikit-learn, Pandas, NumPy, Matplotlib, Exploratory Data
-Analysis
-Tools &
 ---
 
 ### 📌 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| 🔷 [NL_to_SQL_with_Automated_DB](https://github.com/smaranng/NL_to_SQL_with_Automated_DB) | Converts natural language to SQL queries and automates timetable generation. |
-| 👁️ [Cataract_Detection-Prevention-GenAI](https://github.com/smaranng/Cataract_Detection-Prevention-GenAI) | Cataract diagnosis and future prediction using GenAI. |
-| 🔁 [Client-Server_Communication](https://github.com/smaranng/Client-Server_Communication) | A basic socket-based communication system in Python. |
-| 🏠 [Hostel-PGRecommender](https://github.com/smaranng/Hostel-PGRecommender) | Recommender system for hostels and PGs using PHP. |
-| 📚 [Library-Management-System-using-Java-Swing](https://github.com/smaranng/Library-Management-System-using-Java-Swing) | Complete Java Swing-based LMS with UI and DB integration. |
-| 🎨 [Face-Gen-With-DCGAN-and-Options](https://github.com/smaranng/Face-Gen-With-DCGAN-and-Options) | Human face generation using DCGAN with gender/nationality options. |
+| 🔷 [NL_to_SQL_with_Automated_DB](https://github.com/smaranng/NL_to_SQL_with_Automated_DB) | Converts natural language to SQL queries and automates timetable generation using NLP + MySQL. |
+| 👁️ [Cataract_Detection-Prevention-GenAI](https://github.com/smaranng/Cataract_Detection-Prevention-GenAI) | Cataract diagnosis and future prediction using Machine Learning & GenAI techniques. |
+| 🔁 [Client-Server_Communication](https://github.com/smaranng/Client-Server_Communication) | Socket-based client-server communication system implemented in Python. |
+| 🏠 [Hostel-PGRecommender](https://github.com/smaranng/Hostel-PGRecommender) | Recommendation system for hostels and PGs built using PHP and database integration. |
+| 📚 [Library-Management-System-using-Java-Swing](https://github.com/smaranng/Library-Management-System-using-Java-Swing) | Complete Java Swing-based LMS with UI and backend database integration. |
+| 🎨 [Face-Gen-With-DCGAN-and-Options](https://github.com/smaranng/Face-Gen-With-DCGAN-and-Options) | Human face generation using DCGAN with gender and nationality conditioning. |
 
 > ✨ _More in pinned repositories_
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,6 +64,7 @@ Tools &
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
