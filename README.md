@@ -51,7 +51,7 @@ Machine Learning • NLP (Sentiment Analysis, Text Classification) • RAG • A
 | 📚 [Library-Management-System-using-Java-Swing](https://github.com/smaranng/Library-Management-System-using-Java-Swing) | Complete Java Swing-based LMS with UI and backend database integration. |
 | 🎨 [Face-Gen-With-DCGAN-and-Options](https://github.com/smaranng/Face-Gen-With-DCGAN-and-Options) | Human face generation using DCGAN with gender and nationality conditioning. |
 
-> ✨ _More in pinned repositories_
+> ✨ More in repositories
 
 ---
 
