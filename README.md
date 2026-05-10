@@ -44,7 +44,7 @@ Machine Learning • NLP (Sentiment Analysis, Text Classification) • RAG • A
 
 | Project | Description |
 |--------|-------------|
-| 🔷 [NL_to_SQL_with_Automated_DB](https://github.com/smaranng/NL_to_SQL_with_Automated_DB) | Converts natural language to SQL queries and automates timetable generation using NLP + MySQL. |
+| 🔷 [NL_to_SQL_with_Automated_DB](https://github.com/smaranng/NL-SQL-Generator) | Converts natural language to SQL queries and automates timetable generation using NLP + MySQL. |
 | 👁️ [Cataract_Detection-Prevention-GenAI](https://github.com/smaranng/Cataract_Detection-Prevention-GenAI) | Cataract diagnosis and future prediction using Machine Learning & GenAI techniques. |
 | 🔁 [Client-Server_Communication](https://github.com/smaranng/Client-Server_Communication) | Socket-based client-server communication system implemented in Python. |
 | 🏠 [Hostel-PGRecommender](https://github.com/smaranng/Hostel-PGRecommender) | Recommendation system for hostels and PGs built using PHP and database integration. |
