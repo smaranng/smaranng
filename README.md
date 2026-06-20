@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Smaran%20Nanjundiah%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20%2F%20NLP%20%2F%20RAG&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF7F&height=220&section=header&text=Smaran%20Nanjundiah%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20%2F%20NLP%20%2F%20RAG&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;GenAI+%7C+NLP+%7C+RAG+Systems;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;GenAI+%7C+NLP+%7C+RAG+Systems;Building+Intelligent+Applications" />
 
 <br/>
 
@@ -182,6 +182,6 @@ Recommendation system for hostels and PGs, built with PHP and integrated databas
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
